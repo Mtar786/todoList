@@ -4,6 +4,12 @@
 
 This repository contains the code and assets for a To-Do List website. The website allows users to create a list of tasks they need to complete. Users can add tasks to the list, remove specific tasks, and clear all tasks from the list. The website also features a counter to show the total number of items in the todo list. Additionally, users can click on the text in the header to hide it.
 
+## Screenshots
+
+Here's how the To-Do List website looks:
+
+![To-Do List Website](screenshot-todo.png)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
