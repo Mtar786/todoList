@@ -1,0 +1,4 @@
+# DO NOT MODIFY THIS FILE OR YOU RISK MESSING UP THE LINTER/VALIDATOR OUTPUT
+include:
+  - project: 'cse154-23su-students/gitlab-ci'
+    file: '.gitlab-ci-cp2.yml'
